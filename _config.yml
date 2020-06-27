@@ -25,7 +25,7 @@ description: ""
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
 signature: true #show signature
-signature-img: img/signature/mahaib-sgn.jpg
+signature-img: img/signature/
 
 
 # SNS settings
@@ -60,7 +60,7 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "Hi, i'm John Doe"
+sidebar-about-description: "Hi, i'm Ma Haibo"
 sidebar-avatar: img/mahaibo1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
