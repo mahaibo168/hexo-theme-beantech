@@ -4,14 +4,14 @@
 
 # Site
 title: SRE之美
-subtitle: This is hexo theme
+subtitle: SRE：通过软件工程方法和自动化思想，持续构筑高可用的超大分布式云平台系统
 author: Ma Haibo
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url:  https://mahaibo168.github.io/mahaibo/       # Note: don't forget to modify the CNAME file to your url
+url:  https://mahaibo168.github.io/mahaibo       # Note: don't forget to modify the CNAME file to your url
 root: /mahaibo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -19,23 +19,23 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Beantech | 豆科技
-email: beantech@gmail.com
+SEOTitle: SRE之美 | Ma Haibo
+email: mahaibo168@gmail.com
 description: ""
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
 signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img: img/signature/mahaib-sgn.jpg
 
 
 # SNS settings
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    YenYuHsuan
+github_username:   mahaibo168
 # twitter_username:   Demonbane_x
-facebook_username:  YenYuHsuan
-linkedin_username:  yu-hsuan-yen
+facebook_username:  Ma Haibo
+linkedin_username:  Ma Haibo
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -61,7 +61,7 @@ ga_domain: yoursite
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "Hi, i'm John Doe"
-sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/mahaibo1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
