@@ -16,9 +16,6 @@ root: /mahaibo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
-url:  https://mahaibo168.github.io/mahaibo/       # Note: don't forget to modify the CNAME file to your url
-root: /mahaibo/
-
 #Custom Setting Start
 
 # Site settings
